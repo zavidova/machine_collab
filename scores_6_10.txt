@@ -1,35 +1,38 @@
 6.txt
 
-Verdict:
-Score:
-Comparative:
+Verdict:negative
+Score:-9
+Comparative:-0.07377049180327869
 
 
 7.txt
 
 
-Verdict:
-Score:
-Comparative:
+Verdict:positive
+Score:11
+Comparative:0.07534246575342465
 
 
 8.txt
 
 
-Verdict:
-Score:
-Comparative:
+Verdict:neutral
+Score:0
+Comparative:0
+
+
 
 
 9.txt
 
-Verdict:
-Score:
-Comparative:
+Verdict:negative
+Score:-7
+Comparative:-0.09722222222222222
+
 
 
 10.txt
 
-Verdict:
-Score:
-Comparative:
+  verdict: POSITIVE,
+  score: 7,
+  comparative: 0.08974358974358974
