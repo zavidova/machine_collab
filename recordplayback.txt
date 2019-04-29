@@ -1,0 +1,1 @@
+ffmpeg -f dshow -i audio="Stereo Mix (Realtek(R) Audio)" C:\Users\eliza\Desktop\output.mp3
